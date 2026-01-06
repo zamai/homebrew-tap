@@ -1,6 +1,6 @@
 cask "meetingrecorder" do
-  version "0.2"
-  sha256 "abc35408d95a9a83a65ca8258d6f04c92b19cd5412459c8e399dd2bff7613ece"
+  version "0.3"
+  sha256 "9e5657e0d7a31c9d8fa1bdacc0a20dfd8bfb2f8843705bb4d1adeff4df6f0d16"
 
   url "https://github.com/zamai/MeetingRecorder/releases/download/v#{version}/MeetingRecorder.zip"
   name "MeetingRecorder"
